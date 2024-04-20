@@ -36,6 +36,7 @@ class webkitSpeechRecognizer {
 
 
 
+
 const requestFunc = () => {
   if (question.innerText) {
     let message = {

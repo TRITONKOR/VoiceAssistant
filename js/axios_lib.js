@@ -91,6 +91,7 @@
         value: makeInvokeMethod(t, r, c)
       }), a;
     }
+
     function tryCatch(t, e, r) {
       try {
         return {
